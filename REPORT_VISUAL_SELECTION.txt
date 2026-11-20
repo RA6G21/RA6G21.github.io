@@ -1,0 +1,21 @@
+SELECTED VISUALS AND SOURCE LOCATION
+
+VTOL Final Report (1).pdf:
+- Printed PDF page 38: original velocity contour (embedded figure 20). Selected and extracted original embedded figure, not low-resolution screenshot.
+- Printed PDF page 47: modified velocity contour (figure 26). Extracted original embedded figure.
+- Printed PDF page 49: flow visualization of final modified wing system (figure 28). Extracted embedded visual.
+- Earlier drag and lift coefficient plots retained on page.
+
+Aerial Robotics Paper GROUP 6.docx(1).pdf:
+- PDF p1: cropped design mass breakdown table. Kept complete table columns and units. Labelled mass budget, NOT full procurement BOM.
+- PDF p2: cropped centre-of-mass poses (Figure 2).
+- PDF p4: cropped manipulator reachable X-Z workspace (Figure 4).
+- PDF p8: cropped UAV CAD assembly views (appendix drawing).
+- PDF p9: cropped extended arm view and replaced original generic dimensional-drawing figure; labelled correctly as maximum arm reach.
+
+DELIBERATELY EXCLUDED
+- VTOL literature-review figures taken from other cited papers (not the user's own CFD results).
+- VTOL intermediate/duplicative contour plots and small mesh images; kept representative initial vs modified comparison.
+- Aerial robotics Matlab code screenshot, equations-only pages, tiny servo / propeller plots, long text sections and duplicate CAD render.
+
+All images used in this revision are from the two supplied reports. Old site assets retained where used elsewhere.
